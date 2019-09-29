@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-
+This is GIT project , which we are using as sample project
 
 ## Purpose
 
